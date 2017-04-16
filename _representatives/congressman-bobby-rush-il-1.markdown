@@ -1,5 +1,5 @@
 ---
-title: Congressman Bobby Rush (IL-1)
+title: Bobby Rush (IL-1)
 date: 2017-04-16 13:39:00 Z
 position: 0
 phone-numbers:
